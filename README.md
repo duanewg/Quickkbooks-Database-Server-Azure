@@ -1,8 +1,8 @@
 <p align="center">
-<img src="assets/sample-logo.png" alt="sample logo"/>
+<img src="assets/sample-logo.png" alt="Quickbooks"/>
 </p>
 
-# Project Page Title
+# Quickbooks on Azure
 This is where you would type a sentence giving a high level overview of the project.
 
 
