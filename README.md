@@ -8,9 +8,11 @@ This is where you would type a sentence giving a high level overview of the proj
 ## Environments and Technologies Used
 
 - Microsoft Azure (Virtual Machines/Compute)
+- Azure Point-to-Site VPN
 - Remote Desktop
 - Quickbooks Database Server Manager 2022
 - Quickbooks Desktop Premier 2022
+- OpenVPN
 
 ## Operating Systems Used
 
@@ -23,7 +25,7 @@ This is where you would type a sentence giving a high level overview of the proj
 - Setup file sharing on the server and client machiines
 - Configure Remote Desktop for all client machines
 
-<h2>Installation Steps</h2>
+<h2>Diagram</h2>
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
