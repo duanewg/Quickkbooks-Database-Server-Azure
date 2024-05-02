@@ -3,7 +3,7 @@
 </p>
 
 # Quickbooks on Azure
-This is where you would type a sentence giving a high level overview of the project.
+This project implements QuickBooks Desktop in an Azure client-server setup, enabling efficient access to financial data across multiple devices while leveraging Azure's scalability and reliability for centralized management.
 
 ## Environments and Technologies Used
 
