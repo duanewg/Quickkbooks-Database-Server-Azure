@@ -1,32 +1,27 @@
 <p align="center">
-<img src="assets/sample-logo.png" alt="Quickbooks"/>
+<img src="assets/Intuit_QuickBooks_logo.svg" alt="Quickbooks"/>
 </p>
 
 # Quickbooks on Azure
 This is where you would type a sentence giving a high level overview of the project.
 
-
-## Video Demonstration
-
-- ### [YouTube: How To ...](https://www.youtube.com)
-
 ## Environments and Technologies Used
 
 - Microsoft Azure (Virtual Machines/Compute)
-- AWS
-- Proxmox Virtualization Environment
+- Remote Desktop
+- Quickbooks Database Server Manager 2022
+- Quickbooks Desktop Premier 2022
 
 ## Operating Systems Used
 
 - Windows 10</b> (21H2)
 
-## List of Prerequisites
+## High-Level Deployment and Configuration Steps
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Deploy Infrastructure for Quickbooks Database Server and Clients
+- Install the database server manager and client software on all host machines
+- Setup file sharing on the server and client machiines
+- Configure Remote Desktop for all client machines
 
 <h2>Installation Steps</h2>
 
