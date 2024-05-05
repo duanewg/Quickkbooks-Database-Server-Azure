@@ -22,7 +22,7 @@
 
 - Deploy Infrastructure for Quickbooks Database Server and Clients
 - Install the database server manager and client software on all host machines
-- Setup file sharing on the server and client machiines
+- Setup file sharing on the server and client machines
 - Configure Remote Desktop for all client machines
 
 <h2>Architecture Diagram</h2>
