@@ -1,5 +1,17 @@
 <p align="center">
 <img src="assets/Intuit_QuickBooks_logo.svg" alt="Quickbooks"/>
+<p align="center">
+    <picture>
+    <source
+        srcset="assets/quickbooks-logo-dark.svg"
+        media="(prefers-color-scheme: dark)"
+    />
+    <img
+        src="assets/quickbooks-logo.svg"
+        alt="Quickbooks Logo"
+    />
+    </picture>
+</p>
 </p>
 
 # Quickbooks on Azure
