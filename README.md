@@ -5,7 +5,7 @@
             media="(prefers-color-scheme: dark)"
         />
         <img
-            src="assets/quickbooks-logo.svg"
+            src="assets/quickbooks-logo-light.svg"
             alt="Quickbooks Logo"
         />
     </picture>
