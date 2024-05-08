@@ -12,7 +12,7 @@
 </p>
 
 # Quickbooks on Azure
- Implemented QuickBooks Desktop in an Azure client-server setup, enabling efficient access to financial data across multiple devices while leveraging Azure's scalability and reliability for centralized management
+ Implemented QuickBooks Desktop in Azure, enabling efficient access to financial data across multiple devices while leveraging Azure's scalability and reliability for centralized management.
 
 ## Environments and Technologies Used
 
